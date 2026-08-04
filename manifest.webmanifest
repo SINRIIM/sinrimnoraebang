@@ -1,0 +1,15 @@
+{
+  "name": "신림노래방 매거진",
+  "short_name": "신림매거진",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f1e8",
+  "theme_color": "#f6f1e8",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    }
+  ]
+}
